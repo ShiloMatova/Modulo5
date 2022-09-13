@@ -1,0 +1,9 @@
+{
+    title: 'JSON5 example',
+    owner: {
+        name: 'Tom preston-Werner',
+        organization: 'GitHub',
+        bio: 'GitHub Cofunder & CEO',
+        dob: '1979-05-27T07:32:00.000Z',
+    },
+}
